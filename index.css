@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100000px;
+}
+
+.icon{
+    display: flex;
+    border: 2px solid black;
+    height: 30px;
+    
+    
+}
+.icon_1{
+    display: flex;
+}
+.icon_2{
+    margin-left: 1150px;
+}.q_1{
+        text-align: center;
+        margin-top: 60px;
+        margin-bottom: 50px;
+}
+
+.w_2{
+    border:  2px solid rgb(103, 22, 22);
+    height: 500px;
+    background-image: url(./image.html/jane.jpg);
+    background-size: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 700px;
+}
+.w_3{
+    color:white;
+    padding: 60px;
+    margin-top: 195px;
+}
+.main_1{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 450px;
+    height: 870px;
+    margin-top: 40px;
+}
+.e_0 {
+    text-align: center;
+}
+.ic_1{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ic_2{
+    display: flex;
+}
+#ic_3{
+   padding-top: 30px;
+   padding-left: 10px;
+}
+.main_2{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 450px;
+    height: 700px;
+    margin-top: 40px;
+}
+.r_0 {
+    text-align: center;
+}
+.icd_1{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.icd_2{
+    display: flex;
+}
+.main_3{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 450px;
+    height: 700px;
+    margin-top: 40px;
+}
+.t_0 {
+    text-align: center;
+}
+.mainleft_1{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-right: 796px;
+    margin-top: 40px;
+    height: 300px;
+    background-image:url(./image.html/avatar_girl2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+.left{
+color: white;
+border: 1px solid black;
+ padding-bottom: 7px;
+    margin-top: 192px;
+    background-color: black;
+    padding-left: 10px;
+    
+}
+
+
+    
+
+
